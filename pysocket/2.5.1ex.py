@@ -1,7 +1,7 @@
 import socket 
 import select 
 import argparse 
-import diesel
+
 SERVER_HOST = 'localhost' 
  
 EOL1 = b'\n\n' 
